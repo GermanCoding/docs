@@ -48,7 +48,7 @@ The report consists of the following:
 - A line beginning with the words ``Panic at`` followed by a timestamp in
   RFC3339 format.
 
-- The panic bakctrace as printed / formatted by the Go runtime.
+- The panic backtrace as printed / formatted by the Go runtime.
 
 Here is an example of a well formed but short report::
 
