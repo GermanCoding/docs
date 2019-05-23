@@ -50,7 +50,7 @@ The report consists of the following:
 
 - The panic bakctrace as printed / formatted by the Go runtime.
 
-Here is an example of a well format but short report::
+Here is an example of a well formed but short report::
 
     07:48:24 INFO: syncthing v1.1.4 "Erbium Earthworm" (go1.12.5 darwin-amd64) jb@kvin.kastelo.net 2019-05-21 20:36:38 UTC
     Panic at 2019-05-22T07:48:25+02:00
